@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Film Archives - Sarah Duff</title>
+	<atom:link href="/category/film/feed/?simply_static_page=51" rel="self" type="application/rss+xml" />
+	<link>/category/film/</link>
+	<description>Film maker, writer &#38; photographer</description>
+	<lastBuildDate>Thu, 16 Jan 2020 21:55:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">46587988</site>	<item>
+		<title>A little film about Alice Phoebe Lou</title>
+		<link>/a-little-film-about-alice-phoebe-lou/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 16 Jul 2018 11:18:56 +0000</pubDate>
+				<category><![CDATA[Film]]></category>
+		<guid isPermaLink="false">/?p=1773</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/a-little-film-about-alice-phoebe-lou/">A little film about Alice Phoebe Lou</a> appeared first on <a rel="nofollow" href="/">Sarah Duff</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embed-vimeo" style="text-align: center;"><iframe loading="lazy" src="https://player.vimeo.com/video/250132204" width="620" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<p>The post <a rel="nofollow" href="/a-little-film-about-alice-phoebe-lou/">A little film about Alice Phoebe Lou</a> appeared first on <a rel="nofollow" href="/">Sarah Duff</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1773</post-id>	</item>
+		<item>
+		<title>The Music Instinct</title>
+		<link>/the-music-instinct/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2017 12:00:38 +0000</pubDate>
+				<category><![CDATA[Film]]></category>
+		<guid isPermaLink="false">https://beta.sarahduff.com/?p=1604</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/the-music-instinct/">The Music Instinct</a> appeared first on <a rel="nofollow" href="/">Sarah Duff</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embed-vimeo" style="text-align: center;"><iframe loading="lazy" src="https://player.vimeo.com/video/204765229" width="620" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<p>The post <a rel="nofollow" href="/the-music-instinct/">The Music Instinct</a> appeared first on <a rel="nofollow" href="/">Sarah Duff</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1604</post-id>	</item>
+	</channel>
+</rss>

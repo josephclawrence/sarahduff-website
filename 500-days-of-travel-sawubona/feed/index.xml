@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 500 days of travel &#8211; Sawubona	</title>
+	<atom:link href="/500-days-of-travel-sawubona/feed/?simply_static_page=87" rel="self" type="application/rss+xml" />
+	<link>/500-days-of-travel-sawubona/</link>
+	<description>Film maker, writer &#38; photographer</description>
+	<lastBuildDate>Tue, 31 Oct 2017 13:24:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>
